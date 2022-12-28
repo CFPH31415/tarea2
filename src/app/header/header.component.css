@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    background-color: rgb(235, 144, 174);
+    border-bottom: solid 10px #a06d8e;
+}
+.menu{
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+
+}
